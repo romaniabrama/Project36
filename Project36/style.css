@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    position: fixed;
+}
+
+.one{
+    float: left;
+    padding-left: 104px;
+    padding-top: 10px;
+}
+
+.on{
+    float: left;
+    padding-top: 30px;
+    margin-left: -15px;
+    color: #253B75;
+}
+
+.two{
+    float:right;
+    padding-top: 50px;
+    margin-right: -120px;
+    
+}
+
+.three{
+    float: left;
+    margin-top: 160px;
+    margin-left: -210px;
+}
+
+
+h2{
+    color: #4E97A9;
+    padding-top: 162px;
+    margin-left: 148px;
+}
+
+.four{
+    color: #253B75;
+    padding-left: 120px;
+    padding-top: 35px;
+
+}
+
+.five{
+    color: #253B75;
+    padding-left: 140px;
+}
+
+
+
+.hr1{
+    width: 10%;
+    margin-top: -20px;
+    margin-left: 120px;
+    position: absolute;
+}
+
+.six{
+    color: #B1B1B1;
+    margin-left: 130px;
+    margin-top: 90px;  
+}
+
+.hr2{
+    width: 10%;
+    margin-top: -20px;
+    margin-left: 340px;
+   
+    
+}
+
+.seven{
+    color: #B1B1B1;
+    margin-left: 363px;
+    margin-top: -40px;
+    position: relative;
+}
+
+.hr3{
+    width: 26.5%;
+    margin-left: 120px;
+    margin-top: -20px;
+
+}
+
+.eight{
+    color: #B1B1B1;
+    margin-left: 130px;
+}
+
+button{
+    width: 350px;
+    margin-left: 120px;
+    height: 30px;
+    color: #D7D0D0;
+}
+
+span{
+    color: #1D4DC8;
+    font-size: 22px;
+}
+
+p{
+   margin-left: 120px;
+}
+
+.noo{
+   
+   position: flex;
+   margin-left: 670px ;
+   margin-top: -450px;
+   margin-bottom: 500px;
+}
+
+.yess{
+    
+    position: absolute;
+    margin-left: -400px;
+    margin-top: -620px;
+    
+}
